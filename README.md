@@ -4,7 +4,7 @@ Goal: an app where people can find both "tacky" and "classy" holiday light displ
 
 UNFORTUNATELY, I had some fascinating technical hiccups that prevented mine from coming together as a single standalone app.  But I do have a video tour of the components and think that's the best place to see what I was going for (and the challenges that kept it from reaching its final perfection):
 
-## LINK HERE
+## [LightTours - a video introduction](https://drive.google.com/file/d/13VQv9Q2YiIkU_hhXElnZwo3Jum19Td-3/view?usp=sharing)
 
 
 This repo where you find yourself is the development backend for the Addresses Widget that was to let users submit addresses to the database.  The data-shown-on-map was developed separately and it can be found [in this repo](https://github.com/ericdmj/lighttours/). It has also been deployed on the hosting site Render at [https://lighttours02.onrender.com/](https://lighttours02.onrender.com/).
